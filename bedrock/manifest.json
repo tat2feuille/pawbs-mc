@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "1.3.0 - Golden Wolf",
+        "name": "Fuwwy",
+        "uuid": "53be33f6-c532-4e8c-91bf-ab87abff4197",
+        "version": [1, 3, 0],
+        "min_engine_version": [ 1, 20, 10 ]
+    },
+    "modules": [
+        {
+            "description": "1.3.0 - Golden Wolf",
+            "type": "resources",
+            "uuid": "c9002603-96f1-4098-8b06-4b2f138f00c8",
+            "version": [1, 3, 0]
+        }
+    ]
+}
