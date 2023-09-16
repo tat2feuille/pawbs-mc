@@ -12,4 +12,4 @@ you're free to do whatever you want with it :)
 
 [Java](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Tat2feuille/fuwwy/blob/main/releases/1-3-0/fuwwy-java-1-3-0.zip)
 
-[Bedrock](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Tat2feuille/fuwwy/blob/main/releases/1-3-0/fuwwy-bedrock-1-3-0.zip)
+[Bedrock](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Tat2feuille/fuwwy/blob/main/releases/1-3-0/fuwwy-bedrock-1-3-0.mcpack)
