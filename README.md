@@ -10,6 +10,6 @@ you're free to do whatever you want with it :)
 
 ## Lastest Releases:
 
-[Java](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Tat2feuille/fuwwy/blob/main/releases/1-3-0/fuwwy-java-1-3-0.zip)
+[Java](https://github.com/Tat2feuille/fuwwy/files/12641349/Java.zip)
 
-[Bedrock](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Tat2feuille/fuwwy/blob/main/releases/1-3-0/fuwwy-bedrock-1-3-0.mcpack)
+[Bedrock](https://github.com/Tat2feuille/fuwwy/files/12641351/Bedrock.zip)
