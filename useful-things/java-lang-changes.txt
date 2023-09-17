@@ -55,5 +55,8 @@
 "item.minecraft.diamond_sword"
 "Diamond Cheesegrater"
 
+"item.minecraft.diamond"
+"Diamond Paw"
+
 "item.minecraft.totem_of_undying"
 "Reverse Card"
