@@ -10,6 +10,6 @@ you're free to do whatever you want with it :)
 
 ## Lastest Releases:
 
-[Java](https://github.com/Tat2feuille/fuwwy/files/12641673/Java.zip)
+[Java](https://github.com/Tat2feuille/fuwwy/files/12643210/Java.zip)
 
-[Bedrock](https://github.com/Tat2feuille/fuwwy/files/12641674/Bedrock.zip)
+[Bedrock](https://github.com/Tat2feuille/fuwwy/files/12643213/Bedrock.zip)
