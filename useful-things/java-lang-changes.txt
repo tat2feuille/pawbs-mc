@@ -1,0 +1,59 @@
+"entity.minecraft.fox"
+"Femboy Fox"
+
+"item.minecraft.fox_spawn_egg"
+"Femboy Fox Spawn Egg"
+
+"entity.minecraft.cat"
+"Femboy Cat"
+
+"item.minecraft.cat_spawn_egg"
+"Femboy Cat Spawn Egg"
+
+"entity.minecraft.ocelot"
+"Femboy Ocelot"
+
+"item.minecraft.ocelot_spawn_egg"
+"Femboy Ocelot Spawn Egg"
+
+"entity.minecraft.wolf"
+"Femboy Wolf"
+
+"item.minecraft.wolf_spawn_egg"
+"Femboy Wolf Spawn Egg"
+
+"item.minecraft.golden_helmet"
+"Golden Wolf's Head"
+
+ "item.minecraft.golden_chestplate"
+"Golden Wolf's Tail and Arms"
+
+"item.minecraft.golden_leggings"
+"Golden Wolf's Body"
+
+"item.minecraft.golden_boots"
+"Golden Wolf's Feet"
+
+"item.minecraft.gold_ingot"
+"Gold Bone"
+
+"item.minecraft.raw_gold"
+"Broken Gold Bone"
+
+"item.minecraft.iron_ingot"
+"Iron Piece"
+
+"item.minecraft.raw_iron"
+"Rusted Iron Piece"
+
+"item.minecraft.iron_sword"
+"Iron Cheesegrater"
+
+"item.minecraft.golden_sword"
+"Golden Cheesegrater"
+
+"item.minecraft.diamond_sword"
+"Diamond Cheesegrater"
+
+"item.minecraft.totem_of_undying"
+"Reverse Card"
