@@ -1,4 +1,4 @@
-# Fuwwy Ressource Pack
+# Pawbs Ressource Pack
 
 yo it's tat and there is my ressource pack for both java and bedrock (making ressource packs on bedrock is hard lol)
 
@@ -10,6 +10,6 @@ you're free to do whatever you want with it :)
 
 ## Lastest Releases:
 
-[Java](https://github.com/Tat2feuille/fuwwy/files/12643210/Java.zip)
+[Java](https://github.com/tat2feuille/pawbs-mc/files/12643210/Java.zip)
 
-[Bedrock](https://github.com/Tat2feuille/fuwwy/files/12643213/Bedrock.zip)
+[Bedrock](https://github.com/tat2feuille/pawbs-mc/files/12643213/Bedrock.zip)
