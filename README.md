@@ -8,6 +8,10 @@ have fun with it ig, you can suggest ideas, or even try to help me making it if 
 
 you're free to do whatever you want with it :)
 
+edit: im aware it is not updated and armor models dont work on newer version
+
+the legend says tat will never finish a single project of their life
+
 ## Lastest Releases:
 
 [Java](https://github.com/tat2feuille/pawbs-mc/files/12643210/Java.zip)
